@@ -1,0 +1,32 @@
+/*
+ Theme Name:   Go—Theme
+ Author:       Manuel del Pozo
+ Template:     twentythirteen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twenty-thirteen-child
+*/
+
+/* Custom Styles need */
+#product-4 {
+	background-color: red;
+}
+#product-7 {
+	background-color: blue;
+}
+
+
+.popup {
+    background: black !important;
+    color: white;
+}
+.popup2 {
+    background: green !important;
+    color: white;
+}
+.popup3 {
+    background: white !important;
+    color: black;
+}
